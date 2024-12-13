@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Github projects.
 - 📫 How to reach me : sim.ju@live.fr - 0632003489
 - 😄 Pronouns: Ju
-- ⚡ Fun fact: i was a security guard at the chateau de versailles and watched the fireworks on the roof of the chateau / in college, I was a babo and skipped class to go smoke joints in the campus park
+- ⚡ Fun fact: i was a security guard at the chateau de versailles and watched the fireworks on the roof of the chateau / in college, I was a babo and skipped class to play guitare in the campus park
 
 <!---
 JuS1302/JuS1302 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
