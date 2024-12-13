@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web dev, HTML, CSS, JS, Ruby, Git, Bash and Figma.
 - 💞️ I’m looking to collaborate on Github projects.
 - 📫 How to reach me : sim.ju@live.fr - 0632003489
-- 😄 Pronouns: Ju
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: i was a security guard at the chateau de versailles and watched the fireworks on the roof of the chateau / in college, I was a babo and skipped class to play guitare in the campus park
 
 <!---
