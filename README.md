@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Julie
 - 👀 I’m interested in travels, nature and animals, scuba diving, food, fashion, web and digital.
-- 🌱 I’m currently learning web dev, HTML, CSS, JS, Ruby, Git, Bash and Figma.
+- 🌱 I’m currently learning web dev, HTML, CSS, JS, Ruby, Rails, Git and Figma.
 - 💞️ I’m looking to collaborate on Github projects.
 - 📫 How to reach me : sim.ju@live.fr - 0632003489
 - 😄 Pronouns: she/her
