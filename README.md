@@ -35,7 +35,7 @@
 - 🔭 **Building :** Apps full-stack chez **Puppets Bordeaux** (PHP, Symfony, Laravel, React) & en freelance chez **Otterly Web**
 - 👩‍🏫 **Teaching :** Teacher Assistant au Bootcamp **Le Wagon Bordeaux** — pair programming, Ruby on Rails, JS
 - 🌱 **Learning :** React ⚛️ *(certification Udemy 2025)* · OpenClassrooms Full-Stack 2026
-- 💬 **Ask me about :** UX/UI Design, développement full-stack, intégration d'APIs, déploiement
+
 
 
 ## 📬 Connect with me
