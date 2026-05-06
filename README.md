@@ -32,7 +32,7 @@
 
 ## 🔍 Currently
 
-<div>
+<div align="center">
 
 - 🔭 **Building :** Apps full-stack chez **Puppets Bordeaux** (PHP, Symfony, Laravel, React) & en freelance chez **Otterly Web**
 - 👩‍🏫 **Teaching :** Teacher Assistant au Bootcamp **Le Wagon Bordeaux** — pair programming, Ruby on Rails, JS
