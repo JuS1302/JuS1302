@@ -1,1 +1,1 @@
-« Maîtriser un ou plusieurs langages de programmation, c’est un peu comme posséder un super pouvoir. On entre dans un univers parallèle où les idées prennent vie, où chaque ligne de code peut transformer une simple pensée en réalité concrète. C’est parler une langue secrète, incomprise de beaucoup, mais capable d’ouvrir des portes vers des mondes infinis, de résoudre des problèmes complexes et de bâtir des outils qui changent le quotidien. Un pouvoir discret, mais redoutablement puissant. » - Moi 
+
