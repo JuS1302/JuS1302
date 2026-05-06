@@ -9,6 +9,7 @@
 </div>
 
 
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -30,15 +31,17 @@
 </div>
 
 
+
 ## 🔍 Currently
 
-<div align="center">
-
 - 🔭 **Building :** Apps full-stack chez **Puppets Bordeaux** (PHP, Symfony, Laravel, React) & en freelance chez **Otterly Web**
+
 - 👩‍🏫 **Teaching :** Teacher Assistant au Bootcamp **Le Wagon Bordeaux** — pair programming, Ruby on Rails, JS
+
 - 🌱 **Learning :** React ⚛️ *(certification Udemy 2025)* · OpenClassrooms Full-Stack 2026
 
-</div>
+- 💬 **Ask me about :** UX/UI Design, développement full-stack, intégration d'APIs, déploiement
+
 
 
 ## 📬 Connect with me
@@ -49,6 +52,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-JuS1302-ebebeb?style=for-the-badge&logo=github&logoColor=1a1a1a)](https://github.com/JuS1302)
 
 </div>
+
 
 
 ## ⚡ Fun Fact
