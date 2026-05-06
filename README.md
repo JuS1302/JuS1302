@@ -40,7 +40,7 @@
 
 - 🌱 **Learning :** React ⚛️ *(certification Udemy 2025)* · OpenClassrooms Full-Stack 2026
 
-- 💬 **Ask me about :** UX/UI Design, développement full-stack, intégration d'APIs, déploiement
+
 
 
 
